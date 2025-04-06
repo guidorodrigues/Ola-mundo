@@ -35,5 +35,8 @@
 ## Tábelas
 Num | Nome | Nota
 --- | --- | ---
-1 | Guido | 8,5
+2 | Kris | 7,0
+3 | Rasei | 10,0
+4 | Noelle | 9,5
+5 | Susie | 0,0
 

@@ -31,6 +31,9 @@
 ![Ralsei_overworld_hatless](https://github.com/user-attachments/assets/43cac298-1f07-4b03-afaf-cda20462202d)
 ![Noelle_overworld_Dark_World](https://github.com/user-attachments/assets/69cedfe7-591d-49e5-8833-e3eddbba4a3a)
 ---
-**by:** _Toby Fox, Deltarune_
-
+**by:** [_Toby Fox, Deltarune_](https://deltarune.com/)
+## Tábelas
+Num | Nome | Nota
+--- | --- | ---
+1 | Guido | 8,5
 
